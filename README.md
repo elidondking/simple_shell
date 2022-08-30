@@ -1,1 +1,1 @@
-econd Alx Team task on creating a simple Shell
+Second Alx Team task on creating a simple Shell

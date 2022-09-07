@@ -1,4 +1,4 @@
-econd Alx Team task on creating a simple Shell
+Second Alx Team task on creating a simple Shell
 General
 
 Allowed editors: vi, vim, emac

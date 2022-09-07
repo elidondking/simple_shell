@@ -1,5 +1,4 @@
 Second Alx Team task on creating a simple Shell
-Hmmmmm
 General
 
 Allowed editors: vi, vim, emac

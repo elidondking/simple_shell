@@ -1,2 +1,2 @@
-l -l README.md
+ls -l README.md
 echo 'uuu'

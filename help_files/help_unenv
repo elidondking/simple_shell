@@ -1,5 +1,5 @@
 unsetenv: unsetenv
-	Rmove each NAME from the list of defined environment variables.
+	Remove each NAME from the list of defined environment variables.
 
 	Options:
 	NONE. I mean, really, who do you think wrote this? Ken Thompson or Dennis Ritchie?
